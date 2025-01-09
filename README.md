@@ -1,7 +1,9 @@
 # GameZone
 
 GameZone is a simple web application built as a practical implementation of **MVC (Model-View-Controller)** architecture to demonstrate **CRUD (Create, Read, Update, Delete)** operations.
+## Live Demo
 
+You can view a live demo of the application [here](http://game22zone.runasp.net/)
 ## Features
 
 - **Add New Records:** Create new game-related records in the system.
